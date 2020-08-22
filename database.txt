@@ -1,0 +1,7 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+hatena_2009_1,2009,hatena,wiley,calculus
+Latina_2019_1,2009,latina,gramedia,belajar C++
+Furuhasi_2009_1,2009,Furuhasi,gramedia,belajar Java
+Hatena_2020_1,2020,Hatena,gramedia,Kotlin
+Nana_2010_1,2010,Nana,gramedia,Belajar AI

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Belajar_JavaDasar_02_OrganisasiProgram_dengan_Package/lib/commons-lang3-3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

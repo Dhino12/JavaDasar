@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Belajar_JavaDasar_02_OrganisasiProgram_dengan_Package.Main.M
+ ain
+
